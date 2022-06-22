@@ -1,4 +1,9 @@
-class square:
-    int n
-    square = n * n
-    return square
+#!/usr/bin/python3
+""" Creates an empty class called Square
+"""
+
+
+class Square:
+    """ Empty class using pass
+    """
+    pass
