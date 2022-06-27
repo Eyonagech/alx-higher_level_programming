@@ -6,6 +6,8 @@ using backtracking
 
 """
 
+import sys
+
 
 def isSafe(m_queen, nqueen):
     """ Method that determines if the queens can or can't kill each other
