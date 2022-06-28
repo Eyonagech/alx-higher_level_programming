@@ -1,0 +1,3 @@
+laskdj
+Everything is object
+ 
